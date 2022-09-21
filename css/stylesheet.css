@@ -126,7 +126,7 @@ input {
 @media (max-width: 575px) {
     .details {
         position: relative;
-        left: 25%;
+        left: 20%;
         text-align: center;
         padding-bottom: 20px;
     }
